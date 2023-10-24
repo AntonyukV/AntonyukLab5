@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AntonyukLab5/1.0.0": {
+        "runtime": {
+          "AntonyukLab5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AntonyukLab5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
